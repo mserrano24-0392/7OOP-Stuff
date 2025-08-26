@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate **with people who's into the same interest as me, not only in game development, but in the entire tech industry.**
 
-- 🤝 I’m looking for help with **how to setup my profile to be used for my portfolio, but I'm aware that I'm still learning so that can wait for now.**
+- 🤝 I’m looking for **some way to learn more about stuff I need in my life, as well as my career.**
 
 - 💬 Ask me about **anything! I'm happy to help with anything I know, and I'll be real with you if I don't know 'em.**
 
