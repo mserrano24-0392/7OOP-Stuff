@@ -1,6 +1,6 @@
-title: ""
-description: ""
 remote_theme: HackBulgaria/pixel
-
 plugins:
   - jekyll-remote-theme
+
+  sass:
+  sass_dir: assets/css
