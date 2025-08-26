@@ -1,7 +1,10 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 /* Use a pixel font */
-boady {
+body {
   font-family: 'Press Start 2P', cursive;
   background-color: black;
   color: #33ff33;
