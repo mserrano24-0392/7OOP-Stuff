@@ -1,6 +1,10 @@
-remote_theme: HackBulgaria/pixel
-plugins:
-  - jekyll-remote-theme
+title: "My Retro Site"
+description: "Press START to continue..."
+theme: minima  # <-- default GitHub theme (easy to override)
 
-  sass:
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
   sass_dir: assets/css
