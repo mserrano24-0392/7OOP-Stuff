@@ -10,12 +10,12 @@
 I’m Mark, a 19-year-old 2nd-year Computer Science student.  
 I wouldn’t call myself ambitious, but I do want to secure a future where I can take care of myself and my family.  
 
-- 🔭 Currently working on **game ideas** (though my PC is slowly giving out).  
-- 🌱 Learning **Python** in class, with some background in **C and Java**.  
-- 👯 Open to collaborating with anyone passionate about **game dev or tech in general**.  
-- 🤝 Always looking for ways to **learn and grow**, both for career and life.  
-- 💬 Ask me anything! If I know it, I’ll help. If I don’t, I’ll keep it real.  
-- 📫 Reach me at **mserrano24-0392@cca.edu.ph**  
+🔭 Currently working on **game ideas** (though my PC is slowly giving out).  
+🌱 Learning **Python** in class, with some background in **C and Java**.  
+👯 Open to collaborating with anyone passionate about **game dev or tech in general**.  
+🤝 Always looking for ways to **learn and grow**, both for career and life.  
+💬 Ask me anything! If I know it, I’ll help. If I don’t, I’ll keep it real.  
+📫 Reach me at **mserrano24-0392@cca.edu.ph**  
 
 ---
 
