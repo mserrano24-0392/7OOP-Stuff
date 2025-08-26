@@ -20,7 +20,7 @@ I wouldn’t call myself ambitious, but I do want to secure a future where I can
 ---
 
 ### 🛠️ Languages & Tools  
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> 
