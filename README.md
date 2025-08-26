@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python for my subject in my class, but I have decent knowledge in C and Java. Beginner stuff.**
 
-- 👯 I’m looking to collaborate on **with people who's into the same interest as me, not only in game development, but in the entire tech industry.**
+- 👯 I’m looking to collaborate **with people who's into the same interest as me, not only in game development, but in the entire tech industry.**
 
 - 🤝 I’m looking for help with **how to setup my profile to be used for my portfolio, but I'm aware that I'm still learning so that can wait for now.**
 
