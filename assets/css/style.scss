@@ -1,107 +1,41 @@
 ---
 ---
 
-/* Your retro styles here */
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
+/* Global Styles */
 body {
   font-family: 'Press Start 2P', cursive;
   background-color: black;
   color: #33ff33;
   text-align: center;
   text-shadow: 0 0 4px #00ff00;
-}
-
-/* === Base Setup === */
-body {
-  font-family: 'Press Start 2P', cursive;
-  background-color: #000;
-  color: #33ff33;
   margin: 0;
-  padding: 0;
-  min-height: 100vh;
-
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-
-  text-align: center;
-  line-height: 1.6;
-  text-shadow: 0 0 5px #00ff00;
+  padding: 2rem;
 }
 
-/* === Headings === */
-h1, h2, h3 {
-  color: #00ff99;
-  text-shadow: 0 0 6px #00ffaa, 0 0 12px #008866;
-  margin: 20px 0;
-}
-
-/* === Links === */
+/* Links */
 a {
   color: #ffcc00;
   text-decoration: none;
-  text-shadow: 0 0 5px #ffcc00;
-  transition: color 0.2s, text-shadow 0.2s;
+  text-shadow: 0px 0px 4px #ffcc00;
 }
 a:hover {
-  color: #fff;
-  text-shadow: 0 0 8px #ffcc00, 0 0 15px #ffaa00;
+  color: white;
+  text-shadow: 0px 0px 8px #ffcc00;
 }
 
-/* === Sections === */
-section {
-  background: rgba(0, 0, 0, 0.7);
-  border: 2px solid #33ff33;
-  border-radius: 8px;
-  padding: 20px;
-  margin: 20px auto;
-  width: 80%;
-  max-width: 800px;
-  box-shadow: 0 0 10px #00ff00;
-}
-
-/* === Lists === */
-ul {
-  list-style: none;
-  padding: 0;
-}
-li::before {
-  content: "▶ ";
-  color: #ffcc00;
-}
-
-/* === Retro Grid Overlay === */
+/* Pixel Grid Overlay */
 body::before {
   content: "";
   position: fixed;
   inset: 0;
   background: repeating-linear-gradient(
-    to right, rgba(0, 255, 0, 0.05) 0px, rgba(0, 255, 0, 0.05) 2px, transparent 2px, transparent 20px
+    to right, rgba(0,255,0,0.05) 0px, rgba(0,255,0,0.05) 2px, transparent 2px, transparent 20px
   ),
   repeating-linear-gradient(
-    to bottom, rgba(0, 255, 0, 0.05) 0px, rgba(0, 255, 0, 0.05) 2px, transparent 2px, transparent 20px
+    to bottom, rgba(0,255,0,0.05) 0px, rgba(0,255,0,0.05) 2px, transparent 2px, transparent 20px
   );
   pointer-events: none;
   z-index: -1;
-}
-
-/* === Button Style (like "Press START") === */
-button, .start-btn {
-  font-family: 'Press Start 2P', cursive;
-  font-size: 14px;
-  color: black;
-  background: #33ff33;
-  border: 3px solid #00ff00;
-  padding: 12px 20px;
-  margin-top: 20px;
-  cursor: pointer;
-  text-shadow: none;
-  transition: all 0.2s;
-}
-button:hover, .start-btn:hover {
-  background: #00ff00;
-  color: black;
-  box-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
 }
