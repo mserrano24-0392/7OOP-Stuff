@@ -38,16 +38,11 @@
 
 ### 🖼️ Project Links
 <div align="left">
-
-<p>
-  
--**Project 1**
-  
--**Project 2**  
-
--**Project 3**
-</p>
-
+  <p>
+    - <b>Project 1</b><br>
+    - <b>Project 2</b><br>
+    - <b>Project 3</b>
+  </p>
 </div>
 
 ---
