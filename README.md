@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="pitcha.jpg" width="200">
+</p>
 <h3 align="center">Hi, I'm Mark 👋</h3>
 
 <p align="center"> 
@@ -5,7 +8,7 @@
 </p>
 
 ---
-![About me pic](pitcha.jpg)
+
 ### 👨 About Me  
 I’m Mark, a 19-year-old 2nd-year Computer Science student.  
 I wouldn’t call myself ambitious, but I do want to secure a future where I can take care of myself and my family.  
