@@ -20,7 +20,7 @@
 
 <div align="left">
 
-<h3>👨 About Me</h3>
+<h3>👨 About Me & Area of Interest</h3>
 
 <p>
 🎮 Interested in video games especially the Tekken franchise, First-Person Shooter, a bit of MOBA games like Mobile Legends. <br>
