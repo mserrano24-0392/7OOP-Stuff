@@ -2,10 +2,11 @@
   <table>
     <tr>
       <td>
-        <img src="pitcha.jpg" width="250" border="2" style="border-color:white; border-radius:8px;">
+        <img src="pitcha.jpg" width="100" border="2" style="border-color:white; border-radius:8px;">
       </td>
       <td>
-        <h3>Hi, I'm Mark. A 19-year-old 2nd-year Computer Science student. I wouldn’t call myself ambitious, but I do want to secure a future where I can take care of myself and my family.  </h3>
+        <h3>Hi, I'm Mark.</h3>
+        <h3> A 19-year-old 2nd-year Computer Science student. I wouldn’t call myself ambitious, but I do want to secure a future where I can take care of myself and my family.</h3>
       </td>
     </tr>
   </table>
@@ -35,10 +36,12 @@
 
 ### 👤 Social Media / Contact  
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="20" /> [Facebook](https://www.facebook.com/finnavibee)  
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="20" /> [YouTube](https://www.youtube.com/@finnavibee)  
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="20" /> [Instagram](https://www.instagram.com/finnavibee)  
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="20" /> [Reddit](https://www.reddit.com/user/TransportationOdd791)  
+### 👤 Social Media / Contact  
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)](https://www.facebook.com/finnavibee)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=youtube&logoColor=white)](https://www.youtube.com/@finnavibee)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/finnavibee)  
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?&logo=reddit&logoColor=white)](https://www.reddit.com/user/TransportationOdd791)  
 
 ---
 
