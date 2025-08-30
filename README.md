@@ -18,9 +18,7 @@
 
 ---
 
-<div align="left">
-
-### 👨 About Me  
+### 👨 About Me
 
 🎮 Interested in video games especially the Tekken franchise, First-Person Shooter, a bit of MOBA games like Mobile Legends.  
 🔭 Currently working on **game ideas**.  
@@ -28,17 +26,15 @@
 🤝 Always looking for ways to **learn and grow**, both for career and life.  
 💬 Ask me anything! If I know it, I’ll help. If I don’t, I’ll keep it real.  
 📫 Reach me at **mserrano24-0392@cca.edu.ph**  
-😵 Fun fact, I am more confident when I have less sleep.
+😵 Fun fact, I am more confident when I have less sleep.  
 
 ---
 
-### 🖼️ Project Links  
+### 🖼️ Project Links
 
-**Project 1** -  
-**Project 2** -  
-**Project 3** -  
-
-</div>
+- **Project 1**  
+- **Project 2**  
+- **Project 3**  
 
 ---
 
