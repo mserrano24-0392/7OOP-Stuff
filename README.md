@@ -1,7 +1,15 @@
-<p align="left">
-  <img src="pitcha.jpg" width="200">
-</p>
-<h3 align="center">Hi, I'm Mark 👋</h3>
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <img src="pitcha.jpg" width="250" border="2" style="border-color:white; border-radius:8px;">
+      </td>
+      <td>
+        <h3>Hi, I'm Mark. A 19-year-old 2nd-year Computer Science student. I wouldn’t call myself ambitious, but I do want to secure a future where I can take care of myself and my family.  </h3>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=finnavibee&label=Profile%20views&color=0e75b6&style=flat" alt="finnavibee" /> 
@@ -10,15 +18,27 @@
 ---
 
 ### 👨 About Me  
-I’m Mark, a 19-year-old 2nd-year Computer Science student.  
-I wouldn’t call myself ambitious, but I do want to secure a future where I can take care of myself and my family.  
 
-🔭 Currently working on **game ideas** (though my PC is slowly giving out).  
-🌱 Learning **Python** in class, with some background in **C and Java**.  
+🎮 Interested in video games especially the Tekken franchise, First-Person Shooter, a bit of MOBA games like Mobile Legends.  
+🔭 Currently working on **game ideas**.  
 👯 Open to collaborating with anyone passionate about **game dev or tech in general**.  
 🤝 Always looking for ways to **learn and grow**, both for career and life.  
 💬 Ask me anything! If I know it, I’ll help. If I don’t, I’ll keep it real.  
 📫 Reach me at **mserrano24-0392@cca.edu.ph**  
+😵 Fun fact, I am more confident when I have less sleep.
+
+---
+
+### 🖼️ Project Links
+
+---
+
+### 👤 Social Media / Contact  
+
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="20" /> [Facebook](https://www.facebook.com/finnavibee)  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="20" /> [YouTube](https://www.youtube.com/@finnavibee)  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="20" /> [Instagram](https://www.instagram.com/finnavibee)  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="20" /> [Reddit](https://www.reddit.com/user/TransportationOdd791)  
 
 ---
 
