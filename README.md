@@ -36,10 +36,25 @@
 
 ### 👤 Social Media / Contact  
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)](https://www.facebook.com/finnavibee)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=youtube&logoColor=white)](https://www.youtube.com/@finnavibee)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/finnavibee)  
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?&logo=reddit&logoColor=white)](https://www.reddit.com/user/TransportationOdd791)  
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="20"> 
+  <a href="https://www.facebook.com/finnavibee">Facebook</a>
+</h3>
+
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="20"> 
+  <a href="https://www.youtube.com/@finnavibee">YouTube</a>
+</h3>
+
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="20"> 
+  <a href="https://www.instagram.com/finnavibee">Instagram</a>
+</h3>
+
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="20"> 
+  <a href="https://www.reddit.com/user/TransportationOdd791">Reddit</a>
+</h3>
 
 ---
 
