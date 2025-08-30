@@ -36,8 +36,6 @@
 
 ### 👤 Social Media / Contact  
 
-### 👤 Social Media / Contact  
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)](https://www.facebook.com/finnavibee)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=youtube&logoColor=white)](https://www.youtube.com/@finnavibee)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/finnavibee)  
