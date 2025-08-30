@@ -38,12 +38,13 @@
 
 ### 🖼️ Project Links
 <div align="left">
-  <p>
+  <p style="line-height: 1.8;">
     - <b>Project 1</b><br>
     - <b>Project 2</b><br>
     - <b>Project 3</b>
   </p>
 </div>
+
 
 ---
 
