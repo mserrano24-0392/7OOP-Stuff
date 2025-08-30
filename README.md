@@ -18,6 +18,8 @@
 
 ---
 
+<div align="left">
+
 ### 👨 About Me
 
 🎮 Interested in video games especially the Tekken franchise, First-Person Shooter, a bit of MOBA games like Mobile Legends.  
@@ -34,7 +36,9 @@
 
 - **Project 1**  
 - **Project 2**  
-- **Project 3**  
+- **Project 3**
+
+</div>
 
 ---
 
