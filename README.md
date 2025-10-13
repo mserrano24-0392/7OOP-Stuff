@@ -37,14 +37,19 @@
 ---
 
 ### 🖼️ Project Links
-<div align="left">
-  <p style="line-height: 1.8;">
-    - <b>Project 1</b><br>
-    - <b>Project 2</b><br>
-    - <b>Project 3</b>
-  </p>
+<div align="left">  
+  <p style="line-height: 1.8;">  
+    - <b><a href="https://github.com/mserrano24-0392/7OOP-Stuff/blob/main/projects/(1)Midterm%20Paired%20Task%201.png" target="_blank">(1) Midterm Paired Task 1</a></b><br>
+    - <b><a href="https://github.com/mserrano24-0392/7OOP-Stuff/blob/main/projects/(2)Midterm%20Lab%20Task%20Set%201.docx" target="_blank">(2) Midterm Lab Task Set 1</a></b><br>
+    - <b><a href="https://github.com/mserrano24-0392/7OOP-Stuff/blob/main/projects/(3)Midterm%20Lab%20Task%202.docx" target="_blank">(3) Midterm Lab Task 2</a></b><br>
+    - <b><a href="https://github.com/mserrano24-0392/7OOP-Stuff/blob/main/projects/(4)MIDTERM%20QUIZ%20Part%202.%20Coding%20(na%20check%20nyo%20na%20po%20ito%20sa%20(lab).png" target="_blank">(4) MIDTERM QUIZ Part 2. Coding</a></b><br>
+    - <b><a href="https://github.com/mserrano24-0392/7OOP-Stuff/blob/main/projects/(5)Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf" target="_blank">(5) Midterm Lab Task 3. Using List Collections</a></b><br>
+    - <b><a href="https://github.com/mserrano24-0392/7OOP-Stuff/blob/main/projects/(6)Practice%20Task%20using%20Collections.pdf" target="_blank">(6) Practice Task using Collections</a></b><br>
+    - <b><a href="https://github.com/mserrano24-0392/7OOP-Stuff/blob/main/projects/(7)Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.pdf" target="_blank">(7) Midterm Lab Task 4. Using Dictionary Collections</a></b><br>
+    - <b><a href="https://github.com/mserrano24-0392/7OOP-Stuff/blob/main/projects/(8)Midterm%20Lab%20Task%205.%20Creating%20and%20Instantiating%20Classes.docx" target="_blank">(8) Midterm Lab Task 5. Creating and Instantiating</a></b><br>
+    - <b><a href="https://github.com/mserrano24-0392/7OOP-Stuff/blob/main/projects/(9)Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.docx" target="_blank">(9) Midterm Lab Task 6. Overloaded Constructors</a></b><br>
+  </p>  
 </div>
-
 
 ---
 
