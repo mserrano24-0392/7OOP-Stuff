@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; gap: 20px; margin-top: -30px; text-align: left;">
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 10px; text-align: left;">
   <img src="pitcha.jpg" width="100" style="border: 2px solid white; border-radius: 8px;">
   <div>
     <h3>Hi, I'm Mark.</h3>
