@@ -17,7 +17,6 @@
 </p>
 
 ---
-
 <div align="left">
 
 <h3>👨 About Me & Area of Interest</h3>
@@ -36,15 +35,16 @@
 
 ---
 
-### 🖼️ Project Links
+<h3 align="left">🖼️ Project Links</h3>
 
-- [Project 1](./projects/Midterm%20Lab%20Task%20Set%201.%20Getting%20started%20with%20Python.pdf) - Midterm Lab Task Set 1: Getting Started with Python  
-- [Project 2](./projects/Midterm%20Lab%20Task%202.%20Loop%20Construct.pdf) - Midterm Lab Task 2: Loop Construct  
-- [Project 3](./projects/Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf) - Midterm Lab Task 3: Using List Collections  
-- [Project 4](./projects/Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.pdf) - Midterm Lab Task 4: Using Dictionary Collections  
-- [Project 5](./projects/Midterm%20Lab%20Task%205.%20Creating%20and%20Instantiating%20Classes.pdf) - Midterm Lab Task 5: Creating and Instantiating Classes  
-- [Project 6](./projects/Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.pdf) - Midterm Lab Task 6: Overloaded Constructors  
-
+<p align="left">
+<a href="./projects/Midterm%20Lab%20Task%20Set%201.%20Getting%20started%20with%20Python.pdf">Midterm Lab Task Set 1: Getting Started with Python</a><br>
+<a href="./projects/Midterm%20Lab%20Task%202.%20Loop%20Construct.pdf">Midterm Lab Task 2: Loop Construct</a><br>
+<a href="./projects/Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf">Midterm Lab Task 3: Using List Collections</a><br>
+<a href="./projects/Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.pdf">Midterm Lab Task 4: Using Dictionary Collections</a><br>
+<a href="./projects/Midterm%20Lab%20Task%205.%20Creating%20and%20Instantiating%20Classes.pdf">Midterm Lab Task 5: Creating and Instantiating Classes</a><br>
+<a href="./projects/Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.pdf">Midterm Lab Task 6: Overloaded Constructors</a>
+</p>  
 
 ---
 
