@@ -1,14 +1,14 @@
-<div align="left" style="margin-top: -30px;"
-    <tr>
-      <td>
-        <img src="pitcha.jpg" width="100" border="2" style="border-color:white; border-radius:8px;">
-      </td>
-      <td>
-        <h3>Hi, I'm Mark.</h3>
-        <h3>A 19-year-old 2nd-year Computer Science student. I wouldn’t call myself ambitious, but I do want to secure a future where I can take care of myself and my family.</h3>
-      </td>
-    </tr>
+<div style="display: flex; align-items: center; gap: 20px; margin-top: -30px; text-align: left;">
+  <img src="pitcha.jpg" width="100" style="border: 2px solid white; border-radius: 8px;">
+  <div>
+    <h3>Hi, I'm Mark.</h3>
+    <h3>
+      A 19-year-old 2nd-year Computer Science student. I wouldn’t call myself ambitious,
+      but I do want to secure a future where I can take care of myself and my family.
+    </h3>
+  </div>
 </div>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=finnavibee&label=Profile%20views&color=0e75b6&style=flat" alt="finnavibee" /> 
