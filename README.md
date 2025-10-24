@@ -47,17 +47,30 @@
 
 <hr style="width: 80%; border: 1px solid #333; margin: 40px auto;">
 
-<div style="max-width: 800px; margin: 0 auto 40px auto; padding: 0 40px; text-align: left;">
-  <h3>👤 Social Media / Contact</h3>
+<div style="text-align: left; margin-left: 20px;">
+  <p>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg" 
+         width="20" style="vertical-align: middle; filter: invert(1); margin-right: 8px;">
+    <a href="https://www.facebook.com/finnavibee" style="color: white; text-decoration: none;">Facebook</a>
+  </p>
 
-  <p><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="20">
-    <a href="https://www.facebook.com/finnavibee">Facebook</a></p>
-  <p><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="20">
-    <a href="https://www.youtube.com/@finnavibee">YouTube</a></p>
-  <p><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="20">
-    <a href="https://www.instagram.com/finnavibee">Instagram</a></p>
-  <p><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="20">
-    <a href="https://www.reddit.com/user/TransportationOdd791">Reddit</a></p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg" 
+         width="20" style="vertical-align: middle; filter: invert(1); margin-right: 8px;">
+    <a href="https://www.youtube.com/@finnavibee" style="color: white; text-decoration: none;">YouTube</a>
+  </p>
+
+  <p>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/instagram.svg" 
+         width="20" style="vertical-align: middle; filter: invert(1); margin-right: 8px;">
+    <a href="https://www.instagram.com/finnavibee" style="color: white; text-decoration: none;">Instagram</a>
+  </p>
+
+  <p>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/reddit.svg" 
+         width="20" style="vertical-align: middle; filter: invert(1); margin-right: 8px;">
+    <a href="https://www.reddit.com/user/finnavibee" style="color: white; text-decoration: none;">Reddit</a>
+  </p>
 </div>
 
 <hr style="width: 80%; border: 1px solid #333; margin: 40px auto;">
