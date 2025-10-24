@@ -1,4 +1,4 @@
-<div align="left">
+<div align="left" style="margin-top: -30px;">
   <table>
     <tr>
       <td>
@@ -6,7 +6,7 @@
       </td>
       <td>
         <h3>Hi, I'm Mark.</h3>
-        <h3> A 19-year-old 2nd-year Computer Science student. I wouldn’t call myself ambitious, but I do want to secure a future where I can take care of myself and my family.</h3>
+        <h3>A 19-year-old 2nd-year Computer Science student. I wouldn’t call myself ambitious, but I do want to secure a future where I can take care of myself and my family.</h3>
       </td>
     </tr>
   </table>
