@@ -33,6 +33,8 @@
 
 <hr style="width: 80%; border: 1px solid #333; margin: 40px auto;">
 
+### 👤 Social Media / Contact
+
 <div style="max-width: 800px; margin: 0 auto 40px auto; padding: 0 40px; text-align: left; line-height: 1.9;">
   <h3>🖼️ Project Links</h3>
   <p>
@@ -47,29 +49,21 @@
 
 <hr style="width: 80%; border: 1px solid #333; margin: 40px auto;">
 
-<div style="text-align: left; margin-left: 20px;">
+<div style="text-align: center; margin-bottom: 60px;">
+  <h3>👤 Social Media / Contact</h3>
   <p>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg" 
-         width="20" style="vertical-align: middle; filter: invert(1); margin-right: 8px;">
-    <a href="https://www.facebook.com/finnavibee" style="color: white; text-decoration: none;">Facebook</a>
-  </p>
-
-  <p>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg" 
-         width="20" style="vertical-align: middle; filter: invert(1); margin-right: 8px;">
-    <a href="https://www.youtube.com/@finnavibee" style="color: white; text-decoration: none;">YouTube</a>
-  </p>
-
-  <p>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/instagram.svg" 
-         width="20" style="vertical-align: middle; filter: invert(1); margin-right: 8px;">
-    <a href="https://www.instagram.com/finnavibee" style="color: white; text-decoration: none;">Instagram</a>
-  </p>
-
-  <p>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/reddit.svg" 
-         width="20" style="vertical-align: middle; filter: invert(1); margin-right: 8px;">
-    <a href="https://www.reddit.com/user/finnavibee" style="color: white; text-decoration: none;">Reddit</a>
+    <a href="https://www.facebook.com/finnavibee" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40" style="filter: invert(1);">
+    </a>
+    <a href="https://www.youtube.com/@finnavibee" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40" style="filter: invert(1);">
+    </a>
+    <a href="https://www.instagram.com/finnavibee" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" style="filter: invert(1);">
+    </a>
+    <a href="https://www.reddit.com/user/TransportationOdd791" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" alt="Reddit" width="40" height="40" style="filter: invert(1);">
+    </a>
   </p>
 </div>
 
