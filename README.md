@@ -47,6 +47,20 @@
   </p>
 </div>
 
+<div style="max-width: 800px; margin: 0 auto 40px auto; padding: 0 40px; text-align: left; line-height: 1.9;">
+  <h3>🖼️ Project Links</h3>
+  <p>
+    <a href="./projects/Finals%20Lab%20Task%201.%20Encapsulation.pdf">Project 1</a> — Finals Lab Task 1. Encapsulation<br>
+    <a href="./projects/Finals%20Lab%20Task%202.%20Inheritance.pdf">Project 2</a> — Finals Lab Task 2. Inheritance<br>
+    <a href="./projects/Finals%20Lab%20Task%203.%20Polymorphism.pdf">Project 3</a> — Finals Lab Task 3. Polymorphism<br>
+    <a href="./projects/Finals%20Lab%20Task%204.%20Designing%20Tkinter%20GUI%20using%20OOP.pdf">Project 4</a> — Finals Lab Task 4. Designing Tkinter GUI using OOP<br>
+    <a href="./projects/Finals%20Lab%20Task%205.%20Grading%20Program%20using%20Tkinter.pdf">Project 5</a> — Finals Lab Task 5. Grading Program using Tkinter<br>
+    <a href="./projects/Finals%20Lab%20Task%206.%20Mysql%20and%20Pythod%20CRUD%20using%20CLI.pdf">Project 6</a> — Finals Lab Task 6. Mysql and Pythod CRUD using CLI<br>
+    <a href="./projects/Finals%20Lab%20Task%207.%20Tkinter%20CRUD%20GUI.pdf">Project 7</a> — Finals Lab Task 7. Tkinter CRUD GUI
+  </p>
+</div>
+
+
 <hr style="width: 80%; border: 1px solid #333; margin: 40px auto;">
 
 <div style="text-align: center; margin-bottom: 60px;">
